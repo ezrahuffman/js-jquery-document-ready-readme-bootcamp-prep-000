@@ -1,3 +1,7 @@
+# This is sort of my intro to programming in JS so I keep it around for sentimental reasons. If you are looking to hire, this just a very old task from freecodecamp.com. Early on, I was teaching myself javascript while going to comunity college.
+
+
+
 # Document Ready
 
 ## Objectives
